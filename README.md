@@ -12,7 +12,7 @@
 
 | Module | What it tests |
 |--------|--------------|
-| `apikeys` | Stripe, SendGrid, GitHub, Slack, Mailgun, Firebase, NPM, AWS, Shopify, Twilio |
+| `apikeys` | Stripe, SendGrid, GitHub, Slack, Mailgun, Firebase, NPM, AWS, Shopify, Twilio |  
 | `oauth` | Implicit flow, PKCE enforcement, state parameter, redirect URI bypass |
 | `pwreset` | Host header injection, username enumeration, rate limiting |
 
